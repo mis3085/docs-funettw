@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mis3085.github.io/docs-funettw/sitemap.xml
+Sitemap: https://smp.funettw.com/sitemap.xml
