@@ -168,6 +168,29 @@
 
 
 
+  
+  <script
+    data-id="umami-script"
+    async
+    src="https://uma.oc4.gtmc.cc/
+      script.js
+    "
+    data-website-id="966ab3fe-0099-4381-b7bd-12a7545e2f7e"
+    ></script>
+
+
+
+  <script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]').addEventListener("load", function () {
+      const type = document.head.querySelector('meta[property = "og:type"]').getAttribute("content");
+      let title = document.head.querySelector('meta[property = "og:title"]').getAttribute("content");
+      let url = document.head.querySelector('meta[property = "og:url"]').getAttribute("content");
+      umami.track(type + ":" + title, { url: url });
+    });
+  </script>
+
+
+
 
 
   
