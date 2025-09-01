@@ -20,7 +20,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#lcd%e7%b5%84%e8%a3%9d%e7%94%a2%e5%93%81%e5%b1%95%e7%a4%ba&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#lcd%e7%b5%84%e8%a3%9d%e7%94%a2%e5%93%81%e5%b1%95%e7%a4%ba&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -39,7 +40,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%97%9c%e6%96%bc%e8%88%b9%e4%ba%95&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%97%9c%e6%96%bc%e8%88%b9%e4%ba%95&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -58,7 +60,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%94%af%e4%bb%98%e8%a8%ad%e5%82%99%e5%b0%88%e6%a5%ad%e4%bb%a3%e5%b7%a5%e8%88%87%e5%ae%a2%e8%a3%bd%e5%8c%96%e6%96%b9%e6%a1%88&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%94%af%e4%bb%98%e8%a8%ad%e5%82%99%e5%b0%88%e6%a5%ad%e4%bb%a3%e5%b7%a5%e8%88%87%e5%ae%a2%e8%a3%bd%e5%8c%96%e6%96%b9%e6%a1%88&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -77,7 +80,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a4%9a%e5%85%83%e5%8c%96%e8%87%aa%e8%a1%8c%e8%bb%8a%e9%85%8d%e4%bb%b6%e8%a8%ad%e8%a8%88%e8%88%87%e7%b5%84%e8%a3%9d%e6%96%b9%e6%a1%88&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%a4%9a%e5%85%83%e5%8c%96%e8%87%aa%e8%a1%8c%e8%bb%8a%e9%85%8d%e4%bb%b6%e8%a8%ad%e8%a8%88%e8%88%87%e7%b5%84%e8%a3%9d%e6%96%b9%e6%a1%88&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -96,7 +100,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%85%ac%e5%8f%b8%e5%8a%9f%e8%83%bd%e9%83%a8%e9%96%80%e7%b4%b0%e7%af%80%e4%bb%8b%e7%b4%b9&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%ac%e5%8f%b8%e5%8a%9f%e8%83%bd%e9%83%a8%e9%96%80%e7%b4%b0%e7%af%80%e4%bb%8b%e7%b4%b9&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -119,7 +124,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%a1%8c%e6%94%bf%e9%83%a8%e9%96%80&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%a1%8c%e6%94%bf%e9%83%a8%e9%96%80&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -138,7 +144,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%bb%8a%e7%94%a8%e7%85%a7%e6%98%8e%e7%b5%84%e8%a3%9d%e5%b0%88%e5%8d%80&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%bb%8a%e7%94%a8%e7%85%a7%e6%98%8e%e7%b5%84%e8%a3%9d%e5%b0%88%e5%8d%80&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -157,7 +164,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%9b%a3%e6%8e%a7%e6%94%9d%e5%83%8f%e9%a0%adoem%e6%9c%8d%e5%8b%99&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e7%9b%a3%e6%8e%a7%e6%94%9d%e5%83%8f%e9%a0%adoem%e6%9c%8d%e5%8b%99&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -176,7 +184,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a4%9a%e5%85%83%e5%8c%96%e6%b6%88%e8%b2%bb%e6%80%a7%e9%9b%bb%e5%ad%90%e7%94%a2%e5%93%81%e8%a8%ad%e8%a8%88%e8%88%87%e6%87%89%e7%94%a8&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%a4%9a%e5%85%83%e5%8c%96%e6%b6%88%e8%b2%bb%e6%80%a7%e9%9b%bb%e5%ad%90%e7%94%a2%e5%93%81%e8%a8%ad%e8%a8%88%e8%88%87%e6%87%89%e7%94%a8&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -195,7 +204,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a4%9a%e5%85%83%e6%b6%88%e8%b2%bb%e6%80%a7%e9%9b%bb%e5%ad%90%e7%94%a2%e5%93%81oem%e4%bb%a3%e5%b7%a5%e6%96%b9%e6%a1%88&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%a4%9a%e5%85%83%e6%b6%88%e8%b2%bb%e6%80%a7%e9%9b%bb%e5%ad%90%e7%94%a2%e5%93%81oem%e4%bb%a3%e5%b7%a5%e6%96%b9%e6%a1%88&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -214,7 +224,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%a4%9a%e5%85%83%e9%a6%ac%e9%81%94%e8%88%87%e9%9b%bb%e6%ba%90%e6%8e%a7%e5%88%b6%e8%a7%a3%e6%b1%ba%e6%96%b9%e6%a1%88&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%a4%9a%e5%85%83%e9%a6%ac%e9%81%94%e8%88%87%e9%9b%bb%e6%ba%90%e6%8e%a7%e5%88%b6%e8%a7%a3%e6%b1%ba%e6%96%b9%e6%a1%88&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -233,7 +244,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%bf%91%e6%9c%9f%e6%b6%88%e6%81%af%e4%b8%80%e8%a6%bd&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%bf%91%e6%9c%9f%e6%b6%88%e6%81%af%e4%b8%80%e8%a6%bd&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -248,20 +260,12 @@
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td&gt;1&lt;/td&gt;
-          &lt;td&gt;&lt;a
-  href=&#34;https://www.funettw.com/webls-zh-tw/msg/msg7.html&#34;
-    target=&#34;_blank&#34;
-  &gt;模組化的UVC-LED消毒產品&lt;/a&gt;
-&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.funettw.com/webls-zh-tw/msg/msg7.html&#34; target=&#34;_blank&#34;&gt;模組化的UVC-LED消毒產品&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;2020-09-19&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;2&lt;/td&gt;
-          &lt;td&gt;&lt;a
-  href=&#34;https://www.funettw.com/webls-zh-tw/msg/msg10.html&#34;
-    target=&#34;_blank&#34;
-  &gt;全新的表⾯黏裝技術⽣產線(SMT)&lt;/a&gt;
-&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&#34;https://www.funettw.com/webls-zh-tw/msg/msg10.html&#34; target=&#34;_blank&#34;&gt;全新的表⾯黏裝技術⽣產線(SMT)&lt;/a&gt;&lt;/td&gt;
           &lt;td&gt;2021-01-29&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
@@ -272,7 +276,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%a8%a1%e7%b5%84%e5%8c%96uvc-led%e6%b6%88%e6%af%92%e7%94%a2%e5%93%81&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%a8%a1%e7%b5%84%e5%8c%96uvc-led%e6%b6%88%e6%af%92%e7%94%a2%e5%93%81&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -291,7 +296,8 @@
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%81%8b%e5%8b%95%e8%88%87%e5%be%a9%e5%81%a5%e5%99%a8%e6%9d%90%e6%8e%a7%e5%88%b6%e6%9d%bf%e7%94%a2%e5%93%81%e4%bb%8b%e7%b4%b9&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%81%8b%e5%8b%95%e8%88%87%e5%be%a9%e5%81%a5%e5%99%a8%e6%9d%90%e6%8e%a7%e5%88%b6%e6%9d%bf%e7%94%a2%e5%93%81%e4%bb%8b%e7%b4%b9&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -307,14 +313,10 @@
       <guid>https://smp.funettw.com/zh-tw/contact/</guid>
       <description>&lt;p&gt;歡迎您透過以下方式與我們聯繫，無論是產品諮詢、合作洽談或其他需求，我們都將竭誠為您服務。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;國內業務聯絡&lt;/strong&gt;&lt;br&gt;
-&lt;a
-  href=&#34;mailto:herman@funai.com.tw&#34;&gt;herman@funai.com.tw&lt;/a&gt;
-&lt;br&gt;
+&lt;a href=&#34;mailto:herman@funai.com.tw&#34;&gt;herman@funai.com.tw&lt;/a&gt;&lt;br&gt;
 聯絡人：Mr. Herman Yeh&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;海外業務聯絡&lt;/strong&gt;&lt;br&gt;
-&lt;a
-  href=&#34;mailto:karen@funai.com.tw&#34;&gt;karen@funai.com.tw&lt;/a&gt;
-&lt;br&gt;
+&lt;a href=&#34;mailto:karen@funai.com.tw&#34;&gt;karen@funai.com.tw&lt;/a&gt;&lt;br&gt;
 聯絡人：Mrs. Karen Yeh&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;公司聯絡資訊&lt;/strong&gt;&lt;br&gt;
 地址：420豐原區豐勢路一段457號&lt;br&gt;
@@ -335,7 +337,8 @@ Email：funai@funai.com.tw&lt;/p&gt;</description>
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%b0%88%e6%a5%ad%e9%86%ab%e7%99%82%e9%9b%bb%e5%ad%90%e7%94%a2%e5%93%81%e4%bb%a3%e5%b7%a5%e6%9c%8d%e5%8b%99%e8%88%87%e8%a7%a3%e6%b1%ba%e6%96%b9%e6%a1%88&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%b0%88%e6%a5%ad%e9%86%ab%e7%99%82%e9%9b%bb%e5%ad%90%e7%94%a2%e5%93%81%e4%bb%a3%e5%b7%a5%e6%9c%8d%e5%8b%99%e8%88%87%e8%a7%a3%e6%b1%ba%e6%96%b9%e6%a1%88&#34; aria-label=&#34;定位點&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
